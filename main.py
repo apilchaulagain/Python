@@ -113,6 +113,7 @@ for i in range(20):
     )
 
 tree.pack(fill="both", expand=True, padx=10, pady=10)
+#bina
 
 # Stats Bar
 stats_bar = tk.Label(
