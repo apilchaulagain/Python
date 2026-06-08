@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
-
+#Added by Samrachana
 # Colors
 BG = "#FAF7F2"
 TERRA = "#C0533A"
