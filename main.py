@@ -330,4 +330,6 @@ tk.Label(status_bar, text="CSV Viewer  ·  Python  ",
 
 root.mainloop()
 
-#ADD fuction to readd exported database's
+#1.ADD fuction to readd exported database's
+#2.Improve UI if you can
+#3.Implement AI??
