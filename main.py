@@ -329,3 +329,5 @@ tk.Label(status_bar, text="CSV Viewer  ·  Python  ",
          bg=SAND, fg=MUTED, font=("Calibri", 9), anchor="e").pack(side="right", padx=4, pady=4)
 
 root.mainloop()
+
+#ADD fuction to readd exported database's
